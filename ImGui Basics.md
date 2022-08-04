@@ -4,7 +4,7 @@ It is fast, portable, renderer agnostic and self-contained (no external dependen
 This is the most common GUI system in C++, and is a **MUST KNOW** for all C++ developing and rebranding.
 
 - Part 1
--nhttps://www.youtube.com/watch?v=6jmxwRMb-aY&t=75s
+- https://www.youtube.com/watch?v=6jmxwRMb-aY&t=75s
 - Part 2
 - https://www.youtube.com/watch?v=NdUxKmZ5yxc
 - Part 3
